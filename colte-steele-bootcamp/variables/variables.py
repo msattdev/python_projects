@@ -10,3 +10,6 @@ print(num_of_cats)
 friends = 0
 friends = num_of_cats
 print(friends)
+
+child = None
+print(child)
